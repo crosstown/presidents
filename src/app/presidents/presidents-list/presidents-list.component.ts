@@ -25,7 +25,7 @@ export class PresidentsListComponent implements OnInit {
   presidents: IPresident[];
   constructor(private presidentService: Service) {
   }
-  pageTitle = 'Pesident\'s list';
+  pageTitle = 'Pesidents List';
   imageWidth = 50;
   imageMargin = 2;
   showImage = false;
