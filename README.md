@@ -1,4 +1,5 @@
 [![CircleCI](https://circleci.com/gh/crosstown/presidents.svg?style=svg)](https://circleci.com/gh/crosstown/presidents)
+
 # Showcase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
